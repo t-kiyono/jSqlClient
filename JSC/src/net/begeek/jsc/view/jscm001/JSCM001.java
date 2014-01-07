@@ -41,7 +41,7 @@ public class JSCM001 extends ApplicationWindow {
 	private static final int WINDOW_HEIGHT = 768;
 	
 	/** アイコンパス */
-	private static final String ICON_PATH = "com/gmail/tkiyono/jsc/icon/kexi.png";
+	private static final String ICON_PATH = "net/begeek/jsc/icon/kexi.png";
 	
 	/** メイン画面部品の親となるタブフォルダ */
 	private CTabFolder tabFolder;
